@@ -2,7 +2,7 @@ import React from "react";
 
 const about = () => {
   let myStyle = {
-    minHeight: "70vh",
+    minHeight: "100vh",
     margin: "40px auto",
     marginLeft: "70px",
   };
